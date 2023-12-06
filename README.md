@@ -1,3 +1,4 @@
 # GitLearning
 This is learning repository
-author-Minhajul Islam
+<br>
+Author-Minhajul Islam
